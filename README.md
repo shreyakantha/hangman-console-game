@@ -39,7 +39,7 @@ A simple console-based Hangman game built in python. The game automaticlly picks
 ```
 ## 📥 Installation
 
-Install the project locally 
+Install the project locally :
 
 ```bash
   git clone https://github.com/shreyakantha/CodeAlpha_HangmanGame
@@ -48,13 +48,13 @@ cd CodeAlpha_HangmanGame
     
 ## 🖥 Run Locally
 
-Navigate to the location of your file
+Navigate to the location of your file :
 
 ```bash
   cd CodeAlpha_HangmanGame
 ```
 
-Run the script:
+Run the script :
 
 ```bash
  python hangman.py
