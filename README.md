@@ -1,19 +1,19 @@
 
-# 🎮  Hangman Game 
+# 🎮 Hangman Game 
 A simple console-based Hangman game built in python. The game automaticlly picks a random word from a list of five predefined words. The player guesses letters with a limit of six incorrect attempts. The program uses basic Python concepts like the random module, loops, conditionals, strings, and lists. All input and output happens in the terminal without any graphics.
 
 
 ## ⭐ Features
 
--  **Random Word Selection :** The game chooses a random word from a predefined list every time you play, ensuring each round feels different.
+- **Random Word Selection :** The game selects a word from a predefined list for each round.
 
-- **ASCII Hangman Display :** A multi-stage ASCII figure updates after each wrong guess, giving a visual representation of progress.
+- **ASCII Hangman Display :** The hangman figure updates after each incorrect guess.
 
-- **Input Validation :** The game prevents repeated guesses, non-alphabet characters, multiple characters, reduces errors and keeps gameplay clean.
+- **Input Validation :** Prevents repeated and invalid guesses to keep gameplay clean.
 
-- **Live Word Progress Display :** The game shows which letters you’ve correctly guessed and which ones are still hidden.
+- **Live Word Progress Display :** Shows guessed letters and remaining blanks in real time.
 
-- **Win/Lose End Screens :** Displays a clear win message or the final hangman stage with the correct word when the game ends.
+- **Win/Lose End Screens :** Displays a win message or the final hangman with the correct word.
 
 
 
@@ -60,6 +60,15 @@ Run the script :
  python hangman.py
 ```
 
+## 🎥 Demo
+
+*A video demonstration of the Hangman Game showing the complete gameplay flow, including random word selection, letter-by-letter guessing, ASCII hangman progression, and win or loss outcomes.*
+
+**Click Here** ▶ [Hangman-Game-Demo-Video](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
+
+
+
+
 ## 📝 Usage/Examples
 
 When you run the program, you’ll see something similar to :
@@ -80,9 +89,26 @@ Hangman:
 =========
 Guess a letter:
 ```
-The hangman updates after each incorrect guess until the game ends.
+*The hangman updates after each incorrect guess until the game ends.*  
 
-## 🎓Lessons Learned
+Near the end of the game, with only one incorrect guess remaining, the hangman figure is almost complete and only a few letters are left to guess:
+
+```text
+Wrong guesses: 5/6
+Hangman:
+  +---+
+  |   |
+  o   |
+ /|\  |
+ /    |
+      |
+=========
+Current word: S P A _ H E _ T _
+Guess a letter:
+```
+*The game continues updating the hangman until a win or loss is reached.*
+
+## 🎓 Lessons Learned
 
 Working on this project helps reinforce :
 
@@ -97,7 +123,7 @@ Working on this project helps reinforce :
 - Building a complete loop-based game flow
 
 
-## 🔮Future improvements
+## 🔮 Future improvements
 
 - Add difficulty levels
 
