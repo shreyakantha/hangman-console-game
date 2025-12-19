@@ -159,7 +159,7 @@ Feel free to modify, improve, and expand it as needed!
 
 ## 💬 Feedback
 
-If you have any feedback, please reach out to us at shreyakantha348@gmail.com
+If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.com
 ## ❓FAQ
 
 #### Q1. Why does the game allow only 6 wrong guesses?
