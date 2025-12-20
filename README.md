@@ -58,7 +58,7 @@ Run the script :
 ## 🎥 Demo
 *A video demonstration of the Hangman Game showing the complete gameplay flow, including random word selection, letter-by-letter guessing, ASCII hangman progression, and win or loss outcomes.*
 
-**Click Here** ▶ [Hangman-Game-Demo-Video](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
+[  ▶ Click here to view the demo video of the Hangman game](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
 
 ## 📝 Usage/Examples
 
@@ -154,6 +154,9 @@ The project ***Hangman Game*** is part of task under the **CodeAlpha Internship*
 
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
+
 🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
+
 🔗 [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/CodeAlpha_EmailExtractor)
+
 🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/CodeAlpha_BasicChatbot)
