@@ -21,7 +21,7 @@ Build a simple text-based Hangman game in Python where the player guesses a word
 ## 🛠 Tech Stack
 **Language :** Python
 
-**Environment :** Terminal Command Line
+**Environment :** Terminal/Command Line
 
 ## 🕹 Gameplay Rules
 -  The game picks one random word from list of the five predefined wrods
