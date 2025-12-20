@@ -150,7 +150,7 @@ Yes. Just open hangman.py and add more items to the words list.
 All input is converted to uppercase automatically.
 
 ## 🧩 Appendix
-This project was completed as *The first task Hangman Game* under the CodeAlpha Python Programming Internship, focusing on strengthening core Python fundamentals and basic game logic.
+This project was completed as ***The first task Hangman Game*** under the **CodeAlpha Python Programming Internship**, focusing on strengthening core Python fundamentals and basic game logic.
 
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
