@@ -77,7 +77,7 @@ When you run the program, you’ll see something similar to :
   Welcome to Hangman!
 Guess the word one letter at a time. You have 6 wrong guesses.
 
-Current word: _ _ _ _ _
+Current word: _ _ _ _ _ _ _ _ _
 Wrong guesses: 0/6
 Hangman:
     +---+
