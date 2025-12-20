@@ -153,7 +153,7 @@ All input is converted to uppercase automatically.
 The project ***Hangman Game*** is part of task under the **CodeAlpha Internship**.
 
 ## 📌 Related Projects
-The following projects were completed as part of the same CodeAlpha internship program and focus on strengthening core Python programming concepts.
+*The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
 - [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
 - [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/CodeAlpha_EmailExtractor)
 - [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/CodeAlpha_BasicChatbot)
