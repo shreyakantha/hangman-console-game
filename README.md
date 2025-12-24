@@ -34,7 +34,7 @@ Build a simple text-based Hangman game in Python where the player guesses a word
 ```bash
 CodeAlpha_HangmanGame/
 │
-├── hangman.py       # Main game file
+├── Hangman.py       # Main game file
 └── README.md        # Documentation
 ```
 
@@ -52,13 +52,13 @@ Navigate to the location of your file :
 ```
 Run the script :
 ```bash
- python hangman.py
+ python Hangman.py
 ```
 
 ## 🎥 Demo
 *A video demonstration of the Hangman Game showing the complete gameplay flow, including random word selection, letter-by-letter guessing, ASCII hangman progression, and win or loss outcomes.*
 
-[  ▶ Click here to view the demo video of the hangman game ](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
+[  ▶ click here to view the demo video of the hangman game ](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
 
 ## 📝 Usage/Examples
 
@@ -135,8 +135,7 @@ This project is documented using this README.md, which explains the game overvie
  - General README guidelines from open-source communities
 
 ## 📜 License
-This project is open for educational and personal use under the MIT License.  
-Feel free to modify, improve, and expand it as needed.
+This project is open for educational and personal use. Feel free to modify, improve, and expand it as needed.
 
 ## 💬 Feedback
 If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.com
