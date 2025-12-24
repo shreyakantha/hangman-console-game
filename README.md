@@ -142,11 +142,11 @@ If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.c
 
 ## ❓FAQ
 #### Q1. Why does the game allow only 6 wrong guesses?
-Six attempts match the classic Hangman structure and the ASCII art stages.
+**Answer.** Six attempts match the classic Hangman structure and the ASCII art stages.
 #### Q2. Can I add more words to the game?
-Yes. Just open hangman.py and add more items to the words list.
+**Answer.** Yes. Just open hangman.py and add more items to the words list.
 #### Q3. Does the game support lowercase letters?
-All input is converted to uppercase automatically.
+**Answer.** All input is converted to uppercase automatically.
 
 ## 🧩 Appendix
 This project was completed as ***The first task Hangman Game*** under the **CodeAlpha Python Programming Internship**, focusing on strengthening core Python fundamentals and basic game logic.
