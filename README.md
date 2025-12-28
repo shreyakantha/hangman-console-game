@@ -1,5 +1,5 @@
 # 🎮 Hangman Game 
-A simple console-based Hangman game built in python. The game automaticlly picks a random word from a list of five predefined words. The player guesses letters with a limit of six incorrect attempts. The program uses basic Python concepts like the random module, loops, conditionals, strings, and lists. All input and output happens in the terminal without any graphics.
+A simple console-based Hangman game built in **python**. The game automaticlly picks a random word from a list of five predefined words. The player guesses letters with a limit of six incorrect attempts. The program uses basic Python concepts like the `random` module, loops, conditionals, strings, and lists. All input and output happens in the terminal without any graphics.
 
 ## 🎯 Goal
 Build a simple text-based Hangman game in Python where the player guesses a word one letter at a time, with a maximum of six incorrect attempts.
@@ -12,11 +12,11 @@ Build a simple text-based Hangman game in Python where the player guesses a word
 - **Win/Lose End Screens :** Displays a win message or the final hangman with the correct word.
 
 ## 🧠 Key Concepts Used
-- random module
-- While loops
-- If-else conditions
-- Strings and lists
-- Sets for tracking guesses
+- `random` module
+- `while` loops
+- `if-else` conditions
+- `strings` and `lists`
+- `sets` for tracking guesses
 
 ## 🛠 Tech Stack
 **Language :** Python
@@ -60,7 +60,7 @@ Run the script :
 
 [  ▶ click here to view the demo video of the hangman game ](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
 
-## 📝 Usage/Examples
+## 👁️‍🗨️ Gameplay Preview
 
 When you run the program, you’ll see something similar to :
 
@@ -110,8 +110,8 @@ This is a local console-based Python script and does not require deployment. It 
 
 ## 🎓 Lessons Learned
 Working on this project helps reinforce :
-- Using the random module
-- Tracking state using sets and lists
+- Using the `random` module
+- Tracking state using `sets` and `lists`
 - Updating the display dynamically
 - Handling user input safely
 - Building a complete loop-based game flow
@@ -124,10 +124,12 @@ Working on this project helps reinforce :
 - Add a high-score or attempt tracker
 
 ## 📄 Documentation
-This project is documented using this README.md, which explains the game overview, rules, features, installation steps, and sample gameplay output. The source code (hangman.py) is organized in a readable way with clear variable names and logical flow, making it easy for beginners to understand and modify.
+This project is documented using this `README.md`, which explains the game overview, rules, features, installation steps, and sample gameplay output. The source code `Hangman.py` is organized in a readable way with clear variable names and logical flow, making it easy for beginners to understand and modify.
 
 ## 👤 Author
-- [@shreyakantha](https://github.com/shreyakantha)
+**Shreya Kantha** 
+
+GitHub [@shreyakantha](https://github.com/shreyakantha)
 
 ## 🙌 Acknowledgements
  - Inspiration from classic Hangman console games
@@ -135,7 +137,13 @@ This project is documented using this README.md, which explains the game overvie
  - General README guidelines from open-source communities
 
 ## 📜 License
-This project is open for educational and personal use. Feel free to modify, improve, and expand it as needed.
+This project is licensed under the `MIT License`, which means you are free to use, modify, and distribute this software with proper attribution.
+
+
+## 🌱 Support
+If you find this project helpful or interesting, consider giving it a ⭐ on GitHub.  
+
+It helps improve visibility, supports open-source learning, and motivates further improvements.
 
 ## 💬 Feedback
 If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.com
