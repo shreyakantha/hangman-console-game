@@ -2,12 +2,10 @@
 A simple console-based Hangman game built in **Python**. The game automatically selects a random word from a predefined list and allows the player to guess letters with a maximum of six incorrect attempts. All interaction happens through the terminal.
 
 ---
-
 ## 🎯 Goal
 Build a text-based Hangman game in Python where the player guesses a word one letter at a time with a limit of six incorrect guesses.
 
 ---
-
 ## ⭐ Features
 - Random word selection from a predefined list
 - ASCII-based hangman figure that updates after each incorrect guess
@@ -16,7 +14,6 @@ Build a text-based Hangman game in Python where the player guesses a word one le
 - Clear win and loss outcomes
 
 ---
-
 ## 🧠 Key Concepts Used
 - `random` module
 - `while` loops
@@ -25,18 +22,15 @@ Build a text-based Hangman game in Python where the player guesses a word one le
 - `sets` for tracking guesses
 
 ---
-
 ## 🛠 Tech Stack
 - **Language :** Python 3.x
 - **Environment :** Terminal / Command Line
 
 ---
-
 ## ⚙️ Requirements
 - Installed Python 3.x on your system
 
 ---
-
 ## 🕹 Gameplay Rules
 - The game randomly selects one word from a predefined list.
 - The player guesses one letter at a time.
@@ -45,24 +39,22 @@ Build a text-based Hangman game in Python where the player guesses a word one le
 - The game ends when the word is guessed correctly or all attempts are used.
 
 ---
-
 ## 📂 Project Structure
 ```bash
-CodeAlpha_HangmanGame/
-├── Hangman.py
-└── README.md
+hangman-console-game/
+├── Hangman.py    # The actual file
+├── README.md     # The Documentation
+└── LICENSE       # MIT LICENSE
 ```
 ---
-
 ## 📥 Installation
 Clone the repository using Git :
 ```bash
 git clone
-https://github.com/shreyakantha/CodeAlpha_HangmanGame
-cd CodeAlpha_HangmanGame
+https://github.com/shreyakantha/hangman-console-game
+cd hangman-console-game
 ```
 ---
-
 ## 🖥 Run Locally
 Run the script using :
 ```bash
@@ -73,7 +65,7 @@ python Hangman.py
 ## 🎥 Demo
 A video demonstration of the Hangman Game showing the complete gameplay flow, including random word selection, letter-by-letter guessing, ASCII hangman progression, and win or loss outcomes.
 
-[  ▶ click here to view the demo video of the hangman game ](https://github.com/shreyakantha/CodeAlpha_HangmanGame/releases/tag/v1.0)
+[  ▶ click here to view the demo video of the hangman game ](https://github.com/shreyakantha/hangman-console-game/releases/tag/v1.0)
 
 ---
 
@@ -115,12 +107,10 @@ Guess a letter:
 *The game continues updating the hangman until a win or loss is reached.*
 
 ---
-
 ## 🚀 Deployment
 This is a local console-based Python script and does not require deployment. It can be executed on any system with Python installed.
 
 ---
-
 ## ⚡ Optimizations
 - Efficient tracking of guessed letters using a `set`
 - Limited memory usage with a small predefined word list
@@ -128,7 +118,6 @@ This is a local console-based Python script and does not require deployment. It 
 - Lightweight and easily extendable game logic
 
 ---
-
 ## 🎓 Lessons Learned
 - Using the `random` module
 - Tracking game state with `sets` and `lists`
@@ -137,7 +126,6 @@ This is a local console-based Python script and does not require deployment. It 
 - Building a complete loop-driven game flow
 
 ---
-
 ## 🔮 Future Improvements
 - Difficulty levels
 - Replay option
@@ -146,43 +134,34 @@ This is a local console-based Python script and does not require deployment. It 
 - High-score or attempt tracking
 
 ---
-
 ## 📄 Documentation
 This project is documented using this `README.md`, which explains the game overview, rules, features, installation steps, and sample gameplay output. The source code `Hangman.py` is organized in a readable way with clear variable names and logical flow, making it easy for beginners to understand and modify.
 
 ---
-
 ## 👤 Author
-**Shreya Kantha** 
-
-- GitHub : [@shreyakantha](https://github.com/shreyakantha)
+- [@shreyakantha](https://github.com/shreyakantha)
 
 ---
-
 ## 🙌 Acknowledgements
 - Inspiration from classic Hangman console games
 - ASCII art adapted from common Hangman templates
 - General README guidelines from open-source communities
 
 ---
-
 ## 📜 License
 This project is licensed under the `MIT License`, which means you are free to use, modify, and distribute this software with proper attribution.
 
 ---
-
 ## 🌱 Support
 If you find this project helpful or interesting, consider giving it a ⭐ on GitHub.  
 
 It helps improve visibility, supports open-source learning, and motivates further improvements.
 
 ---
-
 ## 💬 Feedback
 If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.com
 
 ---
-
 ## ❓FAQ
 #### Q1. Why does the game allow only 6 wrong guesses?
 **Answer.** Six attempts match the classic Hangman structure and the ASCII art stages.
@@ -192,14 +171,12 @@ If you have any feedback, please reach out to us at 📧 shreyakantha348@gmail.c
 **Answer.** All input is converted to uppercase automatically.
 
 ---
-
 ## 🧩 Appendix
 This project was completed as ***The first task Hangman Game*** under the **CodeAlpha Python Programming Internship**, focusing on strengthening core Python fundamentals and basic game logic.
 
 ---
-
 ## 📌 Related Projects
 *The following projects were completed as part of the same **CodeAlpha internship** program and focus on strengthening core Python programming concepts.*
--  🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/CodeAlpha_StockPortfolioTracker)
--  🔗 [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/CodeAlpha_EmailExtractor)
--  🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/CodeAlpha_BasicChatbot)
+-  🔗 [Stock Portfolio Tracker – Data processing using Python](https://github.com/shreyakantha/stock-portfolio-tracker)
+-  🔗 [Email Extraction Automation – File handling and regular expressions in Python](https://github.com/shreyakantha/email-extractor)
+-  🔗 [Basic Chatbot – Rule-based conversation using conditional logic](https://github.com/shreyakantha/basic-chatbot)
